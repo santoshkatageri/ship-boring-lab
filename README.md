@@ -1,4 +1,4 @@
-# Platform Engineering Demo
+# Ship Boring Lab
 
 Status: repository foundation only. No clusters, Backstage application, or cloud resources are provisioned by this commit.
 
